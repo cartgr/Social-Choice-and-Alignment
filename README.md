@@ -38,13 +38,16 @@
 ## Evaluation
 - [The Authenticity Gap in Human Evaluation](https://arxiv.org/pdf/2205.11930)
 
-## Datasets
-### Language
+### Datasets
+#### Language
 - [The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)
 - [DICES Dataset: Diversity in Conversational AI Evaluation for Safety](https://proceedings.neurips.cc/paper_files/paper/2023/file/a74b697bce4cac6c91896372abaa8863-Paper-Datasets_and_Benchmarks.pdf)
-- [Whose Opinions Do Language Models Reflect?](https://proceedings.mlr.press/v202/santurkar23a.html) [[code]](https://github.com/tatsu-lab/opinions_qa)
+- [Whose Opinions Do Language Models Reflect?](https://proceedings.mlr.press/v202/santurkar23a.html), [[data]](https://github.com/tatsu-lab/opinions_qa)
+- [Towards Measuring the Representation of Subjective Global Opinions in Language Models](https://arxiv.org/pdf/2306.16388), [[data]](https://huggingface.co/datasets/Anthropic/llm_global_opinions)
 - [HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
-### Other
+#### Other
+- [The Moral Machine Experiment](https://core.ac.uk/download/pdf/231922494.pdf), [[data]](https://osf.io/3hvt2/)
+
 
 ## Blog Posts
 - [My lab's small AI safety agenda, Jobst Heitzig](https://forum.effectivealtruism.org/posts/ZWjDkENuFohPShTyc/my-lab-s-small-ai-safety-agenda)
