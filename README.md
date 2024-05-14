@@ -1,4 +1,4 @@
-# Social-Choice-and-Alignment
+# Social Choice and Alignment
 
 ## Overviews
 - [Social Choice for AI Alignment: Dealing with Diverse Human Feedback](https://arxiv.org/abs/2404.10271)
