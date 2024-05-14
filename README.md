@@ -42,7 +42,7 @@
 ### Language
 - [The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models](https://arxiv.org/abs/2404.16019)
 - [DICES Dataset: Diversity in Conversational AI Evaluation for Safety](https://proceedings.neurips.cc/paper_files/paper/2023/file/a74b697bce4cac6c91896372abaa8863-Paper-Datasets_and_Benchmarks.pdf)
-- [Whose Opinions Do Language Models Reflect?](https://proceedings.mlr.press/v202/santurkar23a.html) [[code]](The Authenticity Gap in Human Evaluation)
+- [Whose Opinions Do Language Models Reflect?](https://proceedings.mlr.press/v202/santurkar23a.html) [[code]](https://github.com/tatsu-lab/opinions_qa)
 - [HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
 ### Other
 
