@@ -1,7 +1,7 @@
 # Social-Choice-and-Alignment
 
 ## Overviews
-- https://arxiv.org/abs/2404.10271
+- [Social Choice for AI Alignment: Dealing with Diverse Human Feedback](https://arxiv.org/abs/2404.10271)
 - https://arxiv.org/abs/2310.16048
 - https://arxiv.org/pdf/2404.13038#page=2.85
 - https://arxiv.org/pdf/2307.15217
@@ -15,6 +15,9 @@
 - K-wise pref
 - Soft condorcet optimization
 - KTO
+
+## Datasets
+- Prism
 
 ## Blog Posts
 - https://forum.effectivealtruism.org/posts/ZWjDkENuFohPShTyc/my-lab-s-small-ai-safety-agenda
