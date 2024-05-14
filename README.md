@@ -5,6 +5,7 @@
 - [AI Alignment and Social Choice: Fundamental Limitations and Policy Implications](https://arxiv.org/abs/2310.16048)
 - [Mapping Social Choice Theory to RLHF](https://arxiv.org/pdf/2404.13038)
 - [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217#page=12.5)
+  - In particular sections 3.2.1 and 4.1 
 
 ## Constitutional AI
 - [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input)
