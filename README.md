@@ -27,6 +27,7 @@
 - [A Minimaximalist Approach to Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2401.04056)
 - [Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)
 - [MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences](https://arxiv.org/pdf/2402.08925)
+- [Provable Multi-Party Reinforcement Learning with Diverse Human Feedback](https://arxiv.org/pdf/2403.05006)
 
 
 ## Preference Aggregation
