@@ -6,11 +6,12 @@
 - [AI Alignment and Social Choice: Fundamental Limitations and Policy Implications](https://arxiv.org/abs/2310.16048)
 - [Mapping Social Choice Theory to RLHF](https://arxiv.org/pdf/2404.13038)
 - [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217#page=12.5)
-  - In particular sections 3.2.1 and 4.1
+  - In particular, sections 3.2.1 and 4.1
 - [A Roadmap to Pluralistic Alignment](https://arxiv.org/pdf/2402.05070)
 
 ## Constitutional AI
 - [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input)
+  - Derivative of [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 - [Generative Social Choice](https://arxiv.org/pdf/2309.01291)
 
 ## Reward Modelling
@@ -34,6 +35,9 @@
 
 ## Digital Representatives
 - [Language Agents as Digital Representatives in Collective Decision-Making](https://openreview.net/pdf?id=sv7KZcUqu1)
+
+## Currently Uncategorized
+-[Jury Learning: Integrating Dissenting Voices into Machine Learning Models](https://dl.acm.org/doi/pdf/10.1145/3491102.3502004)
 
 ## Evaluation
 - [The Authenticity Gap in Human Evaluation](https://arxiv.org/pdf/2205.11930)
