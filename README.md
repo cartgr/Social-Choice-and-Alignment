@@ -2,6 +2,7 @@
 
 
 ## Overviews
+- [Principled RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation](https://arxiv.org/pdf/2405.00254)
 - [Social Choice for AI Alignment: Dealing with Diverse Human Feedback](https://arxiv.org/abs/2404.10271)
 - [AI Alignment and Social Choice: Fundamental Limitations and Policy Implications](https://arxiv.org/abs/2310.16048)
 - [Mapping Social Choice Theory to RLHF](https://arxiv.org/pdf/2404.13038)
