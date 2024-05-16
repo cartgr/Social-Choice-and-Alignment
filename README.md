@@ -40,7 +40,7 @@
 - [Language Agents as Digital Representatives in Collective Decision-Making](https://openreview.net/pdf?id=sv7KZcUqu1)
 
 ## Currently Uncategorized
--[Jury Learning: Integrating Dissenting Voices into Machine Learning Models](https://dl.acm.org/doi/pdf/10.1145/3491102.3502004)
+- [Jury Learning: Integrating Dissenting Voices into Machine Learning Models](https://dl.acm.org/doi/pdf/10.1145/3491102.3502004)
 
 ## Evaluation
 - [The Authenticity Gap in Human Evaluation](https://arxiv.org/pdf/2205.11930)
