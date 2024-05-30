@@ -9,6 +9,7 @@
 - [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217#page=12.5)
   - In particular, sections 3.2.1 and 4.1
 - [A Roadmap to Pluralistic Alignment](https://arxiv.org/pdf/2402.05070)
+- [Axioms for AI Alignment from Human Feedback](https://www.cs.toronto.edu/~emicha/papers/rlhf.pdf)
 
 ## Constitutional AI
 - [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input)
